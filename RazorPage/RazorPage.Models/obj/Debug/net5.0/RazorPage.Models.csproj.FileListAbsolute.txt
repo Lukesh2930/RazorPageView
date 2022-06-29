@@ -10,3 +10,15 @@ C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPag
 C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Models\obj\Debug\net5.0\ref\RazorPage.Models.dll
 C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.pdb
 C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.csproj.AssemblyReference.cache
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\bin\Debug\net5.0\RazorPage.Models.deps.json
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\bin\Debug\net5.0\RazorPage.Models.dll
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\bin\Debug\net5.0\ref\RazorPage.Models.dll
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\bin\Debug\net5.0\RazorPage.Models.pdb
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.csproj.AssemblyReference.cache
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.AssemblyInfoInputs.cache
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.AssemblyInfo.cs
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.csproj.CoreCompileInputs.cache
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.dll
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\ref\RazorPage.Models.dll
+C:\Users\tjayl\OneDrive\Desktop\resume\RazorPage\RazorPage.Models\obj\Debug\net5.0\RazorPage.Models.pdb

@@ -13,6 +13,8 @@ namespace RazorPage.Pages.Employees
         // This public property holds the list of employees 
         // Display Template (Index.html) has access to this property
         public IEnumerable<Employee> Employees { get; set; }
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
 
         // Inject IEmployeeRepository service. It is this service
         // that knows how to retrieve the list of employees
@@ -24,7 +26,7 @@ namespace RazorPage.Pages.Employees
         // This method handles the GET request to /Employees/Index
         public void OnGet()
         {
-            Employees = employeeRepository.GetAllEmployees();
+            Employees = employeeRepository.Search(SearchTerm);
         }
     }
 }

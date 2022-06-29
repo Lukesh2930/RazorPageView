@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj": {}
+    "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj": {
+    "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj",
+        "projectUniqueName": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj",
         "projectName": "RazorPage.Models",
-        "projectPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj",
+        "projectPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj",
         "packagesPath": "C:\\Users\\tjayl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Models\\obj\\",
+        "outputPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tjayl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.Mvc.DataAnnotations": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -64,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj": {
+    "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj",
+        "projectUniqueName": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj",
         "projectName": "RazorPage.Services",
-        "projectPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj",
+        "projectPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Services\\RazorPage.Services.csproj",
         "packagesPath": "C:\\Users\\tjayl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Services\\obj\\",
+        "outputPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tjayl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +92,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj": {
-                "projectPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\c sharp\\helloworld\\helloworld\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj"
+              "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj": {
+                "projectPath": "C:\\Users\\tjayl\\OneDrive\\Desktop\\resume\\RazorPage\\RazorPage.Models\\RazorPage.Models.csproj"
               }
             }
           }
@@ -103,6 +107,28 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
