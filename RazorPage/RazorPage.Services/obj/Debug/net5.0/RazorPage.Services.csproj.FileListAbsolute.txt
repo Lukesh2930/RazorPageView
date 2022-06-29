@@ -1,0 +1,15 @@
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\bin\Debug\net5.0\RazorPage.Services.deps.json
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\bin\Debug\net5.0\RazorPage.Services.dll
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\bin\Debug\net5.0\ref\RazorPage.Services.dll
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\bin\Debug\net5.0\RazorPage.Services.pdb
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\bin\Debug\net5.0\RazorPage.Models.dll
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\bin\Debug\net5.0\RazorPage.Models.pdb
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.csproj.AssemblyReference.cache
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.AssemblyInfoInputs.cache
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.AssemblyInfo.cs
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.csproj.CoreCompileInputs.cache
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.csproj.CopyComplete
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.dll
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\ref\RazorPage.Services.dll
+C:\Users\tjayl\OneDrive\Desktop\c sharp\helloworld\helloworld\RazorPage\RazorPage.Services\obj\Debug\net5.0\RazorPage.Services.pdb
